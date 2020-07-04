@@ -1,0 +1,7 @@
+Enter in your userID and password to log
+into your account. If you are an employee
+and would like to access the employee options,
+please check the check box to indicate so.
+If you do not have an account and would like
+to create one, please contact the bank
+manager so they may create an account for you.

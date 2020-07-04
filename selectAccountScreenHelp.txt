@@ -1,0 +1,29 @@
+Chequing Accounts
+     If you choose to make multiple chequing accounts, one of them will
+     be your primary chequing account. This will be the default destination
+     for quick deposits and quick withdraws. You are not allowed to withdraw
+     money from a chequing account with a negative balance, and a negative
+     balance beyond -$100 will not be allowed.
+Savings Accounts
+     Stores a $0 or positive balance at all times and accumulates interest by
+     a factor of 0.1% on the first of every month.
+Credit Card Accounts
+     You are allowed to withdraw money from credit card accounts, as long as
+     the withdrawal does not cause your balance to pass $5000. However, you
+     are not allowed to transfer money from a  credit card account to another
+     account or pay bills with a credit card account.
+Line of Credit Account
+     You are allowed to withdraw money, transfer money to another  account, and
+     pay bills with a line of credit account. However, you may only do so as
+     long as it does not cause your balance to pass $5000.
+Certificate of Deposit Account
+     With this account, you can specify how many months you would like to leave
+     the money deposited for. If you would like to withdraw money from this
+     account before the specified number of months, a penalty will be applied
+     and your balance decrease. The interest rate for this account is 1% and
+     the balance for this account will always be $0 or above.
+High Risk Investment Account
+     On the first of every month, the current balance has a 24% of dropping to
+     $0, and a 1% of a tenfold increase. You are allowed to transfer money in
+     and out of this account, unless transferring money out would cause the
+     balance to drop below $0.

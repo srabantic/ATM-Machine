@@ -1,0 +1,10 @@
+1. Restock ATM
+     Restock the bills in the ATM.
+2. Close Bank
+     Close the bank.
+3. Create New User
+     Create a new user.
+4. Manage Users
+     Reverse a user's last transaction,
+     create a new account for a user,
+     or reset a user's password.
